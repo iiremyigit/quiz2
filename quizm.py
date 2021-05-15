@@ -18,6 +18,3 @@ for veri in dosya:
    veri = veri.replace("-","")
    veri = veri.replace("?","")
    print(veri)
-
-
-
